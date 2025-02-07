@@ -1,6 +1,6 @@
 print("hello")
 
-nome = "thiago/"
+nome = "thiago//"
 idade = 28
 
 print(nome, idade)
